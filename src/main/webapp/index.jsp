@@ -54,7 +54,7 @@
               Registrarse
             </button>
           </div>
-          <img src="common/img/log.svg" class="image" alt="" />
+          <img src="common/img/man.png" class="image" alt="" />
         </div>
         <div class="panel right-panel">
           <div class="content">
@@ -66,7 +66,7 @@
               Iniciar Sesión
             </button>
           </div>
-          <img src="common/img/register.svg" class="image" alt="" />
+          <img src="common/img/woman.png" class="image" alt="" />
         </div>
       </div>
     </div>
